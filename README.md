@@ -18,7 +18,7 @@
   <p>.</p>
   <p>.</p>
   <h3>Study :pencil2:</h3>
-   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
+   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Docker-0133AD?style=flat&logo=Docker&logoColor=white">
   <p>.</p>
   <p>.</p>
   <h3>My Project :construction_worker:</h3>
