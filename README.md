@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <p>.</p>
   <p>.</p>
-  <h3>Study :pencil2:</h3>
+  <h3>Need to Study :pencil2:</h3>
    <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Docker-0133AD?style=flat&logo=Docker&logoColor=white">
   <p>.</p>
   <p>.</p>
@@ -25,7 +25,7 @@
 
   YouTube Clone|Personal Blog|Daangn Market Clone|Hackathon Project
   ---|---|---|---|
-  추후 링크 업로드 예정|추후 링크 업로드 예정|추후 링크 업로드 예정|추후 링크 업로드 예정
+  <a href="https://github.com/KimEuncheol222/youtube_clone_lunch">![youtube_icon](https://github.com/KimEuncheol222/kimeuncheol222/assets/125336999/82a7b060-cb68-4d54-94be-601c484846db)</a>|<a href="https://github.com/KimEuncheol222/django_powerbloger">![blog](https://github.com/KimEuncheol222/kimeuncheol222/assets/125336999/a6fa79ce-f460-4699-876a-41611b838aa6)</a>|<a href="https://github.com/KimEuncheol222/remember">![당근아이콘](https://github.com/KimEuncheol222/kimeuncheol222/assets/125336999/7c369d85-5983-4ac8-a1bc-879b2f743035)</a>|추후 링크 업로드 예정
   
   <p>.</p>
   <p>.</p>
